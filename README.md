@@ -44,7 +44,7 @@
 <br />
 
 <!-- status bar -->
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=byeongs1&layout=compact&show_icons=true&theme=buefy&hide_border=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=byeongs1&layout=compact&show_icons=true&theme=vue&hide_border=true" />
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byeongs1&layout=compact&theme=buefy&hide_border=true" />
   
  <!-- 백준 프로필 --> 
