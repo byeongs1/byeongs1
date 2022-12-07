@@ -35,13 +35,13 @@
 ### Connect with me
 
 <p>
-<a href="www.gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/> 
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="www.gmail.com"><img align="right src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<img align="right src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/> 
+<img align="right src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </p>
 
 <!-- status bar -->
-  <img src="https://github-readme-stats.vercel.app/api?username=byeongs1&layout=compact&show_icons=true&theme=vue&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=byeongs1&layout=compact&theme=vue&hide_border=true" />
+  <img align="right src="https://github-readme-stats.vercel.app/api?username=byeongs1&layout=compact&show_icons=true&theme=vue&hide_border=true" />
+  <img align="right src="https://github-readme-stats.vercel.app/api/top-langs/?username=byeongs1&layout=compact&theme=vue&hide_border=true" />
   
   [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=qudcks4644)](https://solved.ac/qudcks4644)
