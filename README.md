@@ -13,7 +13,8 @@ Web development <br/>
 Animation with pure CSS & P5.js <br/>
 
 ### Latest Projects
-[Git_merge_practice](https://github.com/byeongs1/merge_3.2_before_fast_forward)
+[crawling-Image-synthesis-project]([[https://github.com/byeongs1/merge_3.2_before_fast_forward](https://github.com/byeongs1/papago_mini_project](https://github.com/byeongs1/crawling-Image-synthesis-project)
+[papago mini Project]([https://github.com/byeongs1/merge_3.2_before_fast_forward](https://github.com/byeongs1/papago_mini_project)
 
 ### Languages and Tools
 
