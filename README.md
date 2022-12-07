@@ -1,22 +1,22 @@
 ## 안녕하세요! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ### 저는 백엔드 개발자를 꿈꾸고 있는 김병찬이라고 합니다! 
 
-### About me
+## About me
 
 :four_leaf_clover: I’m currently learning Basic Programming skills like Python, HTML, CSS and Javascript.<br/>
 :pencil: Sometimes I write articles on [Medium](https://medium.com/) <br/> <!-- Add a links-->
 📫 How to reach me: ksan1357@naver.com <br/>
 
-### Interest
+## Interest
 
 Web development <br/>
 Animation with pure CSS & P5.js <br/>
 
-### Latest Projects
-[crawling-Image-synthesis-project](https://github.com/byeongs1/crawling-Image-synthesis-project)<br>
-[papago mini Project](https://github.com/byeongs1/papago_mini_project)
+## Latest Projects
+### [crawling-Image-synthesis-project](https://github.com/byeongs1/crawling-Image-synthesis-project)<br>
+### [papago mini Project](https://github.com/byeongs1/papago_mini_project)
 
-### Languages and Tools
+## Languages and Tools
 
 <p>
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
