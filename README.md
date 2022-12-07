@@ -1,5 +1,6 @@
 ### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-### I am Yoo, Full Stack Web Developer from :kr: Seoul, Republic of Korea 
+### 안녕하세요! 
+### 저는 백엔드 개발자를 꿈꾸고 있는 김병찬이라고 합니다! 
 
 ### About me
 
