@@ -33,6 +33,16 @@
 </p>
 
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=byeongs1&repo=github-readme-stats&theme=buefy" />
+</a>
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=byeongs1&repo=anuraghazra.github.io&theme=buefy" />
+</a>
+
+<br />
+<br />
+
 <!-- status bar -->
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=byeongs1&layout=compact&show_icons=true&theme=vue&hide_border=true" />
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byeongs1&layout=compact&theme=vue&hide_border=true" />
