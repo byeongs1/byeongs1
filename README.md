@@ -1,5 +1,5 @@
 ## 안녕하세요! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-### 저는 백엔드 개발자를 꿈꾸고 있는 김병찬이라고 합니다! 
+### 백엔드 개발자를 꿈꾸고 있는 김병찬이라고 합니다! 
 
 ## About me
 
@@ -44,8 +44,8 @@
 <br />
 
 <!-- status bar -->
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=byeongs1&layout=compact&show_icons=true&theme=vue&hide_border=true" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byeongs1&layout=compact&theme=vue&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=byeongs1&layout=compact&show_icons=true&theme=vue&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byeongs1&layout=compact&theme=vue&hide_border=true" />
   
  <!-- 백준 프로필 --> 
   [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=qudcks4644)](https://solved.ac/qudcks4644)
