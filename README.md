@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome!&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome!&fontSize=90&align="center")
 
-## 안녕하세요! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="100px">
+## 안녕하세요! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px">
 ### 백엔드 개발자를 꿈꾸고 있는 김병찬이라고 합니다! 
 
 ## About me
@@ -35,15 +35,6 @@
 </p>
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=byeongs1&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=byeongs1&repo=anuraghazra.github.io&theme=buefy" />
-</a>
-
-<br />
-<br />
 
 <!-- status bar -->
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=byeongs1&layout=compact&show_icons=true&theme=vue&hide_border=true" />
