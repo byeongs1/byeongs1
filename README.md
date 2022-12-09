@@ -2,9 +2,7 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=200&section=header&text=ByeongChan%20Kim&fontColor=fcba03&fontSize=80&fontAlign=62&fontAlignY=32&desc=byeongs1&descSize=25&descAlign=85&descAlignY=50)
 
-### 안녕하세요!
-### 백엔드 개발자를 꿈꾸고 있는 김병찬이라고 합니다! 
-  
+
 <h3 align="center">🛠 Teck Stack 🛠</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a>&nbsp
