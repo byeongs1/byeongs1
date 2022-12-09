@@ -27,6 +27,6 @@
 
 ![](https://github.com/byeongs1/github-stats-transparent/blob/output/generated/overview.svg)
 ![](https://github.com/byeongs1/github-stats-transparent/blob/output/generated/languages.svg)
-
-
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byeongs1&layout=compact&theme=vue&hide_border=true" />
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=qudcks4644)](https://solved.ac/qudcks4644)
 </div>
