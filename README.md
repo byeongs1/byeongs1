@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome!&fontSize=90&align="center")
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=180&section=header&text=Welcome!&fontSize=90&align="center")
 
 ## 안녕하세요! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px">
 ### 백엔드 개발자를 꿈꾸고 있는 김병찬이라고 합니다! 
@@ -6,8 +6,6 @@
 ## About me
 
 :four_leaf_clover: I’m currently learning Basic Programming skills like Python, HTML, CSS and Javascript.<br/>
-
-:pencil: Sometimes I write articles on [Medium](https://medium.com/) <br/> <!-- Add a links-->
 
 📫 How to reach me: ksan1357@naver.com <br/>
 
